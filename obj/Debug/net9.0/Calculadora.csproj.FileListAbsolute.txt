@@ -12,3 +12,4 @@ C:\Users\leona\source\repos\Calculadora\obj\Debug\net9.0\refint\Calculadora.dll
 C:\Users\leona\source\repos\Calculadora\obj\Debug\net9.0\Calculadora.pdb
 C:\Users\leona\source\repos\Calculadora\obj\Debug\net9.0\Calculadora.genruntimeconfig.cache
 C:\Users\leona\source\repos\Calculadora\obj\Debug\net9.0\ref\Calculadora.dll
+C:\Users\leona\source\repos\Calculadora\obj\Debug\net9.0\Calculadora.sourcelink.json
